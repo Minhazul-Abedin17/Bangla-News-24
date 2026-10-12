@@ -82,21 +82,13 @@ const ProfilePage = () => {
                   <h2 className="text-lg font-extrabold tracking-tight sm:text-2xl md:text-3xl">
                     Bangla News 24
                   </h2>
+                  <p className="mt-1 text-sm font-bold">24/7 News Portal</p>
 
                   <p className="mt-0.5 text-[10px] font-medium text-white/85 sm:text-xs md:text-sm">
                     বাংলা নিউজ পোর্টাল • নির্ভরযোগ্য সংবাদ
                   </p>
                 </div>
               </div>
-            </div>
-
-            {/* Desktop right-side branding */}
-            <div className="absolute right-6 top-1/2 hidden -translate-y-1/2 text-right text-white/80 md:block">
-              <p className="text-[10px] font-medium uppercase tracking-[0.25em]">
-                Trusted News
-              </p>
-
-              <p className="mt-1 text-sm font-bold">24/7 News Portal</p>
             </div>
           </div>
 
